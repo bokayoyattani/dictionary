@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kiswahili</string>
+    <string name="enter_word">Enter a Word</string>
+    <string name="translate_word">Translate_Word</string>
+    <string name="word">Word</string>
+    <string name="translate">Translate</string>
+    <string name="exit">Exit</string>
+</resources>
